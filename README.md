@@ -30,6 +30,11 @@ Cell 12 and 13: Plots the average wind speeds and rain rates for the months for 
 
 Data:
 
+![alt text](https://github.com/stokljos/Wind-Speed-and-Rain-Rate-in-the-Ocean-Data-Analysis/blob/graphs/graphs12.JPG)
+![alt text](https://github.com/stokljos/Wind-Speed-and-Rain-Rate-in-the-Ocean-Data-Analysis/blob/graphs/graphs34.JPG)
+![alt text](https://github.com/stokljos/Wind-Speed-and-Rain-Rate-in-the-Ocean-Data-Analysis/blob/graphs/graphs58.JPG)
+![alt text](https://github.com/stokljos/Wind-Speed-and-Rain-Rate-in-the-Ocean-Data-Analysis/blob/graphs/graphs910.JPG)
+
 Analysis:
 
 1)	Plot the cross-correlation function between wind speed at both sites? (Graphs 5 and 6) What is the highest correlation? 
