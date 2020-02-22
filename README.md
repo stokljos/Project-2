@@ -59,15 +59,15 @@ together that they are experiencing the same weather throughout the year.
 
 Conclusion:
 
-	At both sites, the wind speed seems to be the dominating factor between the two parameters. Referencing graphs one and two, 
-  there is a ton of data points of wind speed covering the plot ranging from zero all the way to 17.5 and they stay consistent 
-  at 10 m/s throughout the year.
-	As for the rain rate, there are couple points where the rain is falling hard and getting above 2.5 mm per hour but for the 
-  most part throughout the year, it is relatively low staying below 0.5 mm/hr. Taking a look at graphs nine and 10, the averages 
-  for the months are almost all less than 0.1 mm/hr which shows that it is either not raining, or barely at all.
-	These two observations are even proven in graphs 3 and 4. The plots show that the dominating weather throughout the year is 
-  Wind and no rain which means it’s not raining a lot and the wind speeds are up.
-	This conclusion makes sense though since the ocean has high wind speeds majority of the time and it’s not as likely to rain as much.
+At both sites, the wind speed seems to be the dominating factor between the two parameters. Referencing graphs one and two, 
+there is a ton of data points of wind speed covering the plot ranging from zero all the way to 17.5 and they stay consistent 
+at 10 m/s throughout the year.
+As for the rain rate, there are couple points where the rain is falling hard and getting above 2.5 mm per hour but for the 
+most part throughout the year, it is relatively low staying below 0.5 mm/hr. Taking a look at graphs nine and 10, the averages 
+for the months are almost all less than 0.1 mm/hr which shows that it is either not raining, or barely at all.
+These two observations are even proven in graphs 3 and 4. The plots show that the dominating weather throughout the year is 
+Wind and no rain which means it’s not raining a lot and the wind speeds are up.
+This conclusion makes sense though since the ocean has high wind speeds majority of the time and it’s not as likely to rain as much.
 
 References:
 
